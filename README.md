@@ -1,1 +1,2 @@
 # Texting-Weather-Everyday
+Python script that will text you the weather at your desired location every day at the same time. It texts you the temperature, what it feels like, chance of precipitation, amount of precipitation, and the wind speed. Uses the Open-Mateo API for getting the weather details from a certain location and uses the Twilio API to send the text message. Refer to the Open-Mateo and Twilio for extra questions about usage.
